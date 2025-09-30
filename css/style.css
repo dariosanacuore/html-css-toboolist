@@ -110,3 +110,17 @@ body{
 .upcoming{
     margin-left:100px;
 }
+.website{
+    border-radius: 8px;
+    color:white;
+    background-color: rgb(165, 57, 153);
+    border-style: none;
+    padding:5px;
+}
+.sales{
+    border-radius: 8px;
+    color:white;
+    background-color: rgb(57, 165, 134);
+    border-style: none;
+    padding:5px;
+}
