@@ -50,3 +50,63 @@ body{
 .riq1{
     border:1px solid lightgrey;
 }
+.task{
+    margin-left:100px;
+}
+.spunta{
+    margin-left:100px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 130%;
+    border:2px solid green;
+    padding:3px;
+    padding-top:1px;
+    padding-bottom:1px;
+    
+}
+.editorial{
+    border-radius: 8px;
+    color:white;
+    background-color: rgb(122, 199, 229);
+    border-style: none;
+    padding:5px;
+}
+.today{
+    margin-left:100px;
+}
+.goals{
+    border-radius: 8px;
+    color:white;
+    background-color: rgb(129, 29, 122);
+    border-style: none;
+    padding:5px;
+}
+.recruiting{
+    border-radius: 8px;
+    color:white;
+    background-color: rgb(33, 205, 102);
+    border-style: none;
+    padding:5px;
+}
+.croce{
+    margin-left:100px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 130%;
+    border:2px solid red;
+    padding:3px;
+    padding-top:1px;
+    padding-bottom:1px;
+}
+.mobile{
+    border-radius: 8px;
+    color:white;
+    background-color: rgb(205, 145, 33);
+    border-style: none;
+    padding:5px;
+}
+.upcoming{
+    margin-left:100px;
+}
