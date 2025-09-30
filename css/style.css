@@ -15,12 +15,38 @@
     vertical-align:middle;
 }
 header{
-    border:2px solid white;
+    border:2px solid lightgrey;
+    background-color: white;
 }
 .container{
     background-color: white;
+    width: 50%;
+    margin-top:20px;
+    margin-left:350px;
 
 }
 body{
     background-color: lightgrey;
+}
+.b1{
+    border-radius: 8px;
+    color:white;
+    background-color: rgb(122, 199, 229);
+    padding:7px;
+    margin-left:100px;
+    border-style: none;
+    
+
+}
+.b2{
+    border-radius: 8px;
+    color:lightgrey;
+    background-color:white;
+    padding:5px;
+    margin-top:10px;
+    margin-bottom:10px;
+    border:1px solid lightgrey;
+}
+.riq1{
+    border:1px solid lightgrey;
 }
